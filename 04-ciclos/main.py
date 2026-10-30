@@ -92,7 +92,7 @@ Suele utilizarse para etiquetar datos en función de una condición
 de sí (True) y no (False).
 
 Estructura básica de una list comprehesed:
-variable = [clasificacion_1 if condicion else clasificacion_2 for elemento in iterable]
+variable = [instruccion_true if condicion else instruccion_false for elemento in iterable]
 """
 
 # Categorizar ventas en función de su valor
@@ -121,9 +121,9 @@ Crea las siguientes listas:
   (fórmula: F = C * 1.8 + 32).
 - Lista de días calurosos (temperatura >= 25).
 - Lista de días frescos (temperatura <= 20).
+"""
 
------------------
-
+"""
 Ejercicio 2:
 
 A partir del dataset:
@@ -133,11 +133,10 @@ Aplica una transformación de impuestos basada en el volumen del
 monto.
 - Si la transacción es >= 100, se aplica una retención del 15%.
 (multiplicar por 0.85).
-- Si la transacción es < 1000, no se aplica retención y se mantiene
-su valor original.
+- Si la transacción es < 100, no se aplica retención y se mantiene su valor original.
+"""
 
------------------
-
+"""
 Ejercicio 3:
 
 A partir del dataset:
