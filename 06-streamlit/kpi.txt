@@ -1,0 +1,36 @@
+KPIs (Key Performance Indicator, Indicador Clave de Rendimiento)
+
+Tips para definición de KPIs.
+1. Empezar por los objetivos en lugar de las métricas.
+2. Aplicar el método SMART. Cada métrica debe ser:
+  - Specific (Específica): Mide una única cosa.
+  - Measurable (Medible).
+  - Achivable (Alcanzable): Posee un valor idóneo que realmente se puede cumplir.
+  - Relevant (Relevante): Permite ofrecer mejor entendimiento de una situación.
+  - Time-based (Temporal): La medición debe existir entre un período de tiempo finito.
+
+
+Prompts para definir KPIs
+
+Situación 1: Arquitectura de datos existente.
+
+Actúa como una analista de datos con experiencia en [área de estudio].
+Determina a través del método SMART todas las posibles métricas y análisis obtenibles a través de la siguiente arquitectura de datos:
+EmpleadoID: Texto.
+Nombre: Texto.
+Departamento: Texto.
+FechaIngreso: Fecha ISO (MM-DD-AAAA)
+SalarioBase: Número decimal.
+Bono: Número decimal.
+HorasExtra: Número entero.
+Deducciones: Número decimal.
+SalarioNeto: Número decimal.
+
+Devuelva una lista con todos los hallazgos que incluya: Nombre del análisis, columnas involucradas, cálculo matemático necesario y figura recomendada (tablas, gráficos de barras, gráficos de torta, de línea.)
+
+Situación 2: Arquitectura de datos no está definida.
+
+Actúa como una analista de datos con experiencia en [área de estudio].
+Determina a través del método SMART métricas relevantes para [objetivo].
+
+Devuelva una lista con todos los hallazgos que incluya: Nombre del análisis, columnas involucradas, cálculo matemático necesario y figura recomendada (tablas, gráficos de barras, gráficos de torta, de línea.)
