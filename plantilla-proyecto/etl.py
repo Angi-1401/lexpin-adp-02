@@ -10,11 +10,10 @@ Dependencias:
 
 Uso rápido:
     import pandas as pd
-    from generic_etl import *
+    from etl import *
 
     df = leer_csv("datos.csv")
     df = limpiar_nombres_columnas(df)
-    df = limpiar_texto(df)
     df = convertir_fechas_excel(df, ["fecha_excel"])
     df = convertir_fechas_texto(df, ["fecha_texto"], dayfirst=True)
     df = convertir_porcentajes(df, ["tasa"])

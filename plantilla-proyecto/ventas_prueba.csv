@@ -1,0 +1,21 @@
+  Fecha Venta ;Código Cliente;Nombre Cliente;Región;Producto / Categoría;Monto Venta;Descuento;Fecha Alta (Excel);¿Pagado?;Teléfono;Observaciones
+05/01/2026;C-001;  Ana   Pérez ;Norte;Laptop|Electrónica;15.250,00;10%;45658;Sí;(55) 1234-5678;
+12/01/2026;C-002;Luis Gómez;NORTE ;Mouse|Accesorios;350,50;0%;45670;No;55-8765-4321;
+18/01/2026;C 003;María   López;sur;Monitor|Electrónica;4.800,00;5,5%;45690;si;+52 55 1111 2222;
+18/01/2026;C 003;María   López;sur;Monitor|Electrónica;4.800,00;5,5%;45690;si;+52 55 1111 2222;
+;;;;;;;;;;
+02/02/2026;C-004;Jorge Ruiz;Centro;Teclado|Accesorios;890,00;N/A;45700;yes;55 3333 4444;
+09/02/2026;C-005;Sofía Díaz;nte;Laptop|Electrónica;18.900,00;12,5%;45712;Sí;(55) 5555-6666;
+15/02/2026;C-001;Ana Pérez;Norte;Audífonos|Accesorios;1.200,00;-;45658;No;(55) 1234-5678;
+21/02/2026;C-006;Pedro Sánchez;N/A;Impresora|Oficina;3.450,75;8%;45730;Sí;55-7777-8888;
+03/03/2026;C-007;Laura Torres;centro ;Silla|Oficina;2.600,00;15%;45740;true;55 9999 0000;
+10/03/2026;C-008;Diego Herrera;Sur;Escritorio|Oficina;-500,00;0%;45745;No;5512341234;
+17/03/2026;C-002;Luis Gómez;Norte;Laptop|Electrónica;16.000,00;10%;45670;Sí;55-8765-4321;
+24/03/2026;C-009;Carmen Vega;Oeste;Monitor|Electrónica;5.100,00;5%;45750;0;55 2222 1111;
+   ;  ;   ;  ;  ;  ;  ;  ;  ;  ;  
+01/04/2026;C-010;Raúl Castro;Centro;Mouse|Accesorios;N/A;0%;45760;Sí;55 4444 3333;
+08/04/2026;C-004;Jorge Ruiz;CENTRO;Laptop|Electrónica;17.450,00;7,5%;45700;Sí;55 3333 4444;
+14/04/2026;C-011;Elena Morales;sur;Impresora|Oficina;3.200,00;10%;45770;no;(55) 6666-7777;
+fecha?;C-012;Tomás Navarro;Norte;Teclado|Accesorios;750,00;0%;45775;Sí;55 8888 9999;
+22/04/2026;C-005;Sofía Díaz;Norte;Silla|Oficina;2.450,00;5%;45712;Sí;(55) 5555-6666;
+05/05/2026;C-013;Andrea Ríos;Sur;Laptop|Electrónica;19.300,00;10%;45790;Sí;55 1212 3434;

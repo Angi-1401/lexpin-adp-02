@@ -1,4 +1,4 @@
-Beverage_Category,Beverage,Beverage_Prep,Calories,Total_Fat_(g),Trans_Fat_(g),Saturated_Fat_(g),Sodium_(mg),Total_Carbohydrates_(g),Cholesterol_(mg),Dietary_Fibre_(g),Sugars_(g),Protein_(g),Vitamin_A_(% DV),Vitamin_C_(% DV),Calcium_(% DV),Iron_(% DV),Caffeine_(mg)
+Beverage_Category,Beverage,Beverage_Prep,Calories,Total_Fat_(g),Saturated_Fat_(g),Trans_Fat_(g),Cholesterol_(mg),Sodium_(mg),Total_Carbohydrates_(g),Dietary_Fibre_(g),Sugars_(g),Protein_(g),Vitamin_A_(% DV),Vitamin_C_(% DV),Calcium_(% DV),Iron_(% DV),Caffeine_(mg)
 Coffee,Brewed Coffee,Short,3,0.1,0,0,0,5,0,0,0,0.3,0%,0%,0%,0%,175
 Coffee,Brewed Coffee,Tall,4,0.1,0,0,0,10,0,0,0,0.5,0%,0%,0%,0%,260
 Coffee,Brewed Coffee,Grande,5,0.1,0,0,0,10,0,0,0,1,0%,0%,0%,0%,330
